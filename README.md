@@ -115,7 +115,7 @@ With experience at companies like **Target** and **FINBOURNE Technology**, I've 
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varunsaidanduri/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varun-sai-danduri/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VarunSai-DVS)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://varunsaidanduri.com/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varunsai855@gmail.com)
@@ -126,7 +126,3 @@ With experience at companies like **Target** and **FINBOURNE Technology**, I've 
 🚀 _Let's build scalable systems together!_
 
 ---
-
-<div align="center">
-  <img src="https://github.com/VarunSai-DVS/VarunSai-DVS/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
-</div> 
