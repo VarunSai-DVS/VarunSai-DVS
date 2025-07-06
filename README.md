@@ -7,7 +7,7 @@
 🎓 MS in Computer Science @ Northeastern University GPA: 4.0/4.0  
 🌍 Based in Boston, MA  
 💼 Around 4 years of software development experience across backend, full-stack, and cloud projects  
-🔗 [LinkedIn](https://www.linkedin.com/in/varunsaidanduri/) | [Portfolio](https://varunsaidanduri.com/)  
+🔗 [LinkedIn](https://www.linkedin.com/in/varun-sai-danduri/) | [Portfolio](https://varunsaidanduri.com/)  
 🚀 Actively looking for full-time **Software Engineer** roles starting **Sep 2025**!  
 🛠️ Interested in **backend**, **distributed systems**, **microservices**, **cloud computing**, and **GenAI**
 
@@ -114,30 +114,6 @@ With experience at companies like **Target** and **FINBOURNE Technology**, I've 
 ### 📍 **Cloud-Native Bidding Platform** _(Planned)_
 **Tech Stack:** Cassandra | Redis | Elasticsearch | AWS Fargate | Next.js  
 🏷️ A full-stack event-based bidding system with Cassandra, Redis, Elasticsearch, AWS Fargate, Next.js, and a Hugging Face chatbot. Supports live bidding via SSE and auto-scaling deployments.
-
----
-
-## 🏆 Experience Highlights
-
-### **Software Engineer Co-op** @ FINBOURNE Technology
-*Jul 2024 – Dec 2024 · London, UK*
-- Developed **Bosun** using microservices-based architecture with Java, SpringBoot, and Kafka
-- Enabled AWS and Azure resource provisioning, implementing role-based access to production environments
-- **Reduced manual interventions by 70%** through automation
-- Architected new Concourse CI/CD pipeline with integration tests for reliability
-
-### **Software Engineer - Security Ninja** @ Target
-*Dec 2022 – Aug 2023 · Bangalore, India*
-- Overseen security enhancements as the designated Security Head for the Machine Learning Platform team
-- **Improved platform security metrics by 25%** and coverage by 20%
-- Ran penetration tests finding security vulnerabilities and improved platform reliability by 30%
-
-### **Software Engineer** @ Target
-*Aug 2020 – Aug 2023 · Bangalore, India*
-- Engineered Target's Machine Learning Platform using Java and SpringBoot
-- Built REST API integrations allowing seamless interaction for ML/AI teams
-- Implemented buffered Docker system for Jupyter notebooks **reducing load times by 95%**
-- Enhanced platform observability by 50% through Elasticsearch, Kibana, and Java Sleuth
 
 ---
 
