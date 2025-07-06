@@ -65,39 +65,25 @@ With experience at companies like **Target** and **FINBOURNE Technology**, I've 
 **Tech Stack:** Java | Multi-threading | RMI | Paxos  
 🛡️ A fault-tolerant distributed key-value store using Paxos consensus protocol to achieve consistency across replicas. Simulates node failures and implements retry logic with health checks.
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VarunSai-DVS/Distributed-Key-Value-Store)
-
 ### 📍 **Image Manipulation & Enhancement Application**
 **Tech Stack:** Java | MVC Pattern | Image Processing  
 🖼️ A modular Java application for image manipulation and enhancement with GUI and CLI support, offering filters, transformations, undo, and export using an MVC architecture.
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VarunSai-DVS/Image-Manipulation-and-Enhancement)
 
 ### 📍 **StackOverflow Clone**
 **Tech Stack:** TypeScript | React | Node.js | Express | PostgreSQL | Docker | GitHub Actions  
 💬 A full-stack Q&A platform with authentication, commenting, voting, and CI/CD pipeline via GitHub Actions. Deployed with Docker containers and managed using GitHub Projects.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://stackoverflow-replica.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VarunSai-DVS/StackOverflow-Replica)
-
 ### 📍 **Flatmates – Chore & Payment Manager**
 **Tech Stack:** React | Python | FastAPI | Firebase | Material UI  
 🏡 A roommate collaboration platform for people living under the same roof. Manages shared **chores**, **payments**, and responsibilities using a clean React frontend and FastAPI backend.
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://flatmates-app.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VarunSai-DVS/Flatmates-App)
 
 ### 📍 **Job Board Application**
 **Tech Stack:** React | GraphQL | SQLite | Knex.js  
 💼 A GraphQL-powered job board for posting jobs, managing users, and tracking applications. Used custom React hooks for data fetching, GraphQL subscriptions for real-time updates, and data loaders for performance.
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VarunSai-DVS/JobBoard-server)
-
 ### 📍 **EverythingNU - Campus App**
 **Tech Stack:** Swift | Firebase | SwiftUI  
 🎓 A native iOS app to centralize Northeastern University campus events. Includes event discovery, RSVP, user login, and photo sharing — backed by Firebase Auth, Firestore, and Storage.
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VarunSai-DVS/EverythingNU)
 
 ---
 
@@ -114,14 +100,6 @@ With experience at companies like **Target** and **FINBOURNE Technology**, I've 
 ### 📍 **Cloud-Native Bidding Platform** _(Planned)_
 **Tech Stack:** Cassandra | Redis | Elasticsearch | AWS Fargate | Next.js  
 🏷️ A full-stack event-based bidding system with Cassandra, Redis, Elasticsearch, AWS Fargate, Next.js, and a Hugging Face chatbot. Supports live bidding via SSE and auto-scaling deployments.
-
----
-
-## 🎯 Certifications
-
-![AWS Certified Developer – Associate](https://img.shields.io/badge/AWS_Certified_Developer_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-Verifies the ability to build and deploy secure, scalable cloud applications using core AWS services and modern DevOps practices.
 
 ---
 
